@@ -10,13 +10,13 @@ Study Hub is a productivity application built using Object-Oriented Programming 
 
 * ✅ **Task Management**
 
-  Add, remove, and manage daily tasks
+  Add remove, and manage daily tasks
 * 📅 **Interactive Calendar**
 
   View and plan tasks across different dates
 * 🎧 **Study Session Mode**
 
-  Focus-enhancing environment with calming music
+  Focus enhancing environment with calming music
 * 🧩 **OOP-Based Design**
 
   Structured using classes and modular programming principles
@@ -27,7 +27,7 @@ Study Hub is a productivity application built using Object-Oriented Programming 
 
 * Create an interactive task management system
 * Develop a task-based calendar for planning and visualization
-* Promote deep-focused learning and help reduce procrastination
+* Promote focused learning and help reduce procrastination
 
 ---
 
