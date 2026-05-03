@@ -53,12 +53,6 @@ Study Hub is a productivity application built using Object-Oriented Programming 
 
 ## Contributors
 
-* Habiba Sadia
 * Huzaifa Kashif
 * Shuja Abbas
-
----
-
-## Note
-
-This project was developed as an end-of-semester OOP academic project.
+* Habiba Sadia
